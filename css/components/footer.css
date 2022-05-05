@@ -1,0 +1,23 @@
+.footer {
+  background-color: #2C2B2C;
+  margin-top: 20px;
+  text-align: center;
+  height: 150px;
+
+}
+
+.list-inline {
+  display: inline-flex;
+  list-style-type: none;
+}
+
+.social-link {
+  font-size: 40px;
+  margin: 0 10px;
+  color: #1CDD87;
+}
+
+.footer p {
+  padding-bottom: 20px;
+  color: #6b6c6c;
+}
